@@ -1,7 +1,7 @@
 # Color-Transfer-Between-Images
 
 <p> 
-This python program is the implementation of the paper [*Color Transfer between Images*](https://www.cs.tau.ac.il/~turkel/imagepapers/ColorTransfer.pdf) by Erik Reinhard, Michael Ashikhmin, Bruce Gooch and Peter Shirley.
+This python program is the implementation of the paper [Color Transfer between Images](https://www.cs.tau.ac.il/~turkel/imagepapers/ColorTransfer.pdf) by Erik Reinhard, Michael Ashikhmin, Bruce Gooch and Peter Shirley.
 </p>
 
 ## Examples
