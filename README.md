@@ -32,5 +32,6 @@ Below are some examples showing how to run the <code>main.py</code> demo and the
 </p>
 
 ## References
-- [Color Transfer between Images](https://www.cs.tau.ac.il/~turkel/imagepapers/ColorTransfer.pdf)
+- [chia56028/Color Transfer between Images]](https://github.com/chia56028/Color-Transfer-between-Images)
+- [paper: Color Transfer between Images](https://www.cs.tau.ac.il/~turkel/imagepapers/ColorTransfer.pdf)
 - [Super fast color transfer between images](https://github.com/jrosebr1/color_transfer) 
