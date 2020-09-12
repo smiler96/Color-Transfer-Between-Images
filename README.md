@@ -18,7 +18,7 @@ Below are some examples showing how to run the <code>main.py</code> demo and the
 </p> 
 
 <code>$ >python main.py --src source/s7.jpg --target target/t7.jpg</code>
-<p float="left">
+<p float="left" align="top">
 	<img src="source/s7.jpg" width = "30%" height = "30%" alt="transfer" />
 	<img src="target/t7.jpg" width = "30%" height = "30%" alt="transfer" />
 	<img src="transfer/s7_t7.bmp" width = "30%" height = "30%" alt="transfer" />
