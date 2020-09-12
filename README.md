@@ -24,6 +24,13 @@ Below are some examples showing how to run the <code>main.py</code> demo and the
 	<img src="transfer/s7_t7.bmp" width = "30%" height = "30%" alt="transfer" />
 </p>
 
+<code>$ >python main.py --src source/s10.jpg --target target/t10.jpg</code>
+<p float="left">
+	<img src="source/s10.jpg" width = "30%" height = "30%" alt="transfer" />
+	<img src="target/t10.jpg" width = "30%" height = "30%" alt="transfer" />
+	<img src="transfer/s10_t10.bmp" width = "30%" height = "30%" alt="transfer" />
+</p>
+
 ## References
 - [Color Transfer between Images](https://www.cs.tau.ac.il/~turkel/imagepapers/ColorTransfer.pdf)
 - [Super fast color transfer between images](https://github.com/jrosebr1/color_transfer) 
